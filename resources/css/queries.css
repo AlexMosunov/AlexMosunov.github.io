@@ -122,5 +122,8 @@
   
      section { padding: 25px 0; }
     .contact-form {width: 100%; }
+    
+    .signature {font-size: 80%;}
+    .signature li {margin: 3px;}
 }
 
